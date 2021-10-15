@@ -1,0 +1,59 @@
+body{
+    background-color : orange
+}
+canvas{
+    background-color : #2c3e50;
+    border : 10px solid gray ;
+    border-radius : 0px 0px 20px 20px ;
+    display :block;
+    margin : 0 auto ;
+    box-shadow : 15px 15px 5px black;
+}
+
+#affichage{
+    background-color : green;
+    color : white ;
+    text-align : center ;
+    font-size : 30px;
+    font-weight : bold;
+    border : 10px solid gray;
+    height : 40px ;
+    width: 900px ;
+    margin  : 0 auto;
+    box-shadow : 15px 5px 5px black;
+    border-radius: 20px 20px 0px 0px ;
+    position : relative;
+    buttom : -10px;
+    z-index : -1;
+
+}
+
+#tige{
+    background-color : gray;
+    height : 100px;
+    width : 90px;
+    margin : 0 auto ;
+    position : relative ; 
+    z-index : -1px;
+    buttom : -10px ; 
+    box-shadow : 3px 3px black;
+}
+
+#pied{
+    background-color : white;
+
+    color : green ; 
+
+    text-align : center ; 
+    font-size : 30px ; 
+    border : 10px solid gray ; 
+    height : 40px;
+    width : 300px;
+    margin : 0 auto ;
+    position : relative ; 
+   text-shadow : 1px 2px 3px black;
+   box-shadow : 3px 3px black;
+   border-radius : 20px;
+
+
+}
